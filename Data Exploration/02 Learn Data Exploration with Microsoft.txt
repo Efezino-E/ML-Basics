@@ -1,0 +1,2 @@
+Learn Data Exploration with Microsoft:
+https://github.com/MicrosoftDocs/ml-basics/blob/master/challenges/04%20-%20Clustering%20Challenge.ipynb

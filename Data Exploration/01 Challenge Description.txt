@@ -1,0 +1,5 @@
+Microsoft Flights Data Exploration Challenge:
+https://github.com/MicrosoftDocs/ml-basics/blob/master/challenges/01%20-%20Flights%20Challenge.ipynb
+
+Microsoft Flights Data Exploration Challenge Solution:
+https://github.com/MicrosoftDocs/ml-basics/blob/master/challenges/01%20-%20Flights%20Solution.ipynb
